@@ -22,4 +22,4 @@ Some of the PCs or end devices at your end may be affected by botnet which may b
 So , we would request you to check the devices at your internal n/w and implement proper firewall / security.
 """)
 
-a = input()
+input("Enter to Exit....")
